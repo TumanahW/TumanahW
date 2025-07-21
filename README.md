@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tumanah, an <a href="https://linkedin.com/in/Tumanah">IT Professional</a></h1>
+<h1>Hi, I'm Tumanah, an <a href="http://linkedin.com/in/tumanahw">IT Professional</a></h1>
 
 <h2>💻 Information Technology Projects:</h2>
 
